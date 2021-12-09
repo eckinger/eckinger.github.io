@@ -33,4 +33,4 @@ Some notes
 ------
 If goal 3 goes well, I would also like to do a writeup of what my setup looks like. It is unclear to me how to define "going well," but I would like to get to a point where I can take lecture notes for MATH 153 in LaTeX. If I think I have gotten to that point I will attempt a writeup.
 
-These goals were listed in no particular order, although some are significantly easier than others.
+These goals are listed in no particular order, although some are significantly easier than others.
