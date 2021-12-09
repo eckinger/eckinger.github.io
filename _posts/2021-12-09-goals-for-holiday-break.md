@@ -8,6 +8,9 @@ tags:
   - latex
   - books
   - lifting
+  - climbing
+  - calisthenics
+  - sleep
 ---
 
 I have set for myself a number of goals to accomplish over holiday break.
