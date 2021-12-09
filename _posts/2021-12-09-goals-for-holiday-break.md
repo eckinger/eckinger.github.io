@@ -1,6 +1,6 @@
 ---
 title: 'Goals for Holiday Break'
-date: 2021-12-10
+date: 2021-12-09
 permalink: /posts/2021/12/goals-for-holiday-break/
 tags:
   - goals
