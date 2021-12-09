@@ -10,7 +10,7 @@ tags:
   - lifting
 ---
 
-This holiday break I have a few goals
+I have set for myself a number of goals to accomplish over holiday break.
 
 Heading 1
 ======
