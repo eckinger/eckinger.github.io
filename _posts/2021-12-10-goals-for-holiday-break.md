@@ -1,5 +1,5 @@
 ---
-title: '1: Goals for Holiday Break'
+title: 'Goals for Holiday Break'
 date: 2021-12-10
 permalink: /posts/2021/12/goals-for-holiday-break/
 tags:
