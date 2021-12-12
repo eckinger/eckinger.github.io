@@ -13,4 +13,4 @@ On Saturday I went highlining with two friends of mine. I want to share some pho
 
 I woke up at 5:15 AM and drove up to San Francisco, where I met my friends. We then drove around 2.5 hours to Cosumnes River Gorge, where we rigged a 60 meter line. An adjacent permarig, 70 meters long, was up as well.
 
-![me walking](images/blog_posts/2021-12-12-highlining-at-CRG/IMG_0091_Original.jpeg)
+![me walking](../images/blog_posts/2021-12-12-highlining-at-CRG/IMG_0091_Original.jpeg)
