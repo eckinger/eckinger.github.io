@@ -1,4 +1,3 @@
-
 ---
 title: '2: Highlining at Cosumnes River Gorge'
 date: 2021-12-12
