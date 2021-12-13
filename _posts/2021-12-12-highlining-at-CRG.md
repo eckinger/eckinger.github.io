@@ -3,7 +3,6 @@ title: '2: Highlining at Cosumnes River Gorge'
 date: 2021-12-12
 permalink: /posts/2021/12/highlining-at-CRG/
 tags:
-  - climbing
   - photography
   - highlining
 ---
@@ -30,4 +29,4 @@ A few weeks ago in physics class we were given the following problem in our pset
 
 I decided to reenact it for fun, and sent the photo to my study group.
 
-![our hero](/images/blog_posts/2021-12-12-highlining-at-CRG/PXL_20211211_232710054_Original.jpeg "It really hurts to hang in this orientation. It pulls on your lats uncomfortably.)
+![me hanging](/images/blog_posts/2021-12-12-highlining-at-CRG/PXL_20211211_232710054_Original.jpeg "It really hurts to hang in this orientation. It pulls on your lats uncomfortably.")
