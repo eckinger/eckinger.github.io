@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-idk what to put
+My website is best browsed on a computer.
+
+idk what to put. throwing balls in the air, balancing on wiggly bridges, fun computer hijinks, and anki
