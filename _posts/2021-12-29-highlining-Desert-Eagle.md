@@ -5,6 +5,7 @@ permalink: /posts/2021/12/highlining-Desert-Eagle/
 tags:
   - photography
   - highlining
+  - Arizona
 ---
 
 Yesterday I highlined in Tucson, AZ. I first highlined in Tucson with my friend David, a firefighter and paramedic. I took my first steps with him! I returned Monday planning to meet him and highline again, but he was unable to make it.
@@ -25,4 +26,4 @@ Right before we derigged I got another session in, performing much more poorly. 
 
 ![farther up Mt. Lemmon](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1910.jpeg "This is from farther up Mt. Lemmon, where we stopped after derigging.")
 
-![another Mt. Lemmon shot](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1914.jpeg "James' silhouette on Mt. Lemmon")____
+![another Mt. Lemmon shot](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1914.jpeg "James' silhouette on Mt. Lemmon")

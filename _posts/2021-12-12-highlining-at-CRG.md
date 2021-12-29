@@ -5,6 +5,7 @@ permalink: /posts/2021/12/highlining-at-CRG/
 tags:
   - photography
   - highlining
+  - California
 ---
 
 On Saturday I went highlining with two friends of mine. I want to share some photos, in part because I want to learn how to insert images via markdown. Mostly because I want to share them, though.
