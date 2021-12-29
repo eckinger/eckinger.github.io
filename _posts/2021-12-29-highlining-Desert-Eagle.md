@@ -15,4 +15,14 @@ I spent Sunday in Tucson and then on Monday morning headed to Molino Canyon, whe
 
 Right before we derigged I got another session in, performing much more poorly. I still got some steps in and had fun, which is why I go! Now for some photos.
 
-![heic test](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1914.HEIC "test")
+![0.5 lens shot](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1865.jpeg "ultrawide shot of the line")
+
+![hanging out at the line](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1880.jpeg "hanging out at the line")
+
+![James on the line](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1889.jpeg "James")
+
+![me siting on the line](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1897.jpeg "I used this photo for my POP ranger profile")
+
+![farther up Mt. Lemmon](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1910.jpeg "This is from farther up Mt. Lemmon, where we stopped after derigging.")
+
+![another Mt. Lemmon shot](/images/blog_posts/2021-12-29-highlining-Desert-Eagle/IMG_1914.jpeg "James' silhouette on Mt. Lemmon")____
