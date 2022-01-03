@@ -6,11 +6,13 @@ tags:
   - goals
   - university
   - lifting
+  - LaTeX
+  - Books
   - climbing
   - sleep
 ---
 
-
+Here are some goals I have laid out for winter quarter 2022.
 
 Goals
 ======
