@@ -23,7 +23,7 @@ I want to:
 4. eat healthier.
 5. go harder working out. I want to finish one cycle of 5/3/1 (taking 6 weeks) and start the next cycle. I also want to add some sort of high intensity interval training to my training regimen.
 6. get an A in CS 151 and MATH 153. 
-7. sleep on my back. I't's become comfortable for me, but I still need to make it the complete default without thought.
+7. sleep on my back. It's become comfortable for me, but I still need to make it the complete default without thought.
 8. write one blog post per week.
 9. make my sister a really awesome birthday gift.
 10. not be in the lounge after 9:45 o'clock MTWTh.
