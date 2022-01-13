@@ -4,9 +4,7 @@ date: 2022-01-12
 permalink: /posts/2021/12/how-I-use-a-planner/
 tags:
   - university
-  - lifting
-  - climbing
-  - sleep
+  - productivity
 ---
 
 Introduction
