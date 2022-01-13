@@ -25,7 +25,7 @@ A typical Tuesday
 ======
 This is one of the simpler days in my week, so it'll be easier to explain.
 
-The day begins by looking at Google Calendar.
+The day begins by looking at Google Calendar. Note that today is Wednesday. Make sure to look at Tuesday!
 
 ![example google calendar](/images/blog_posts/2022-01-12-how-I-use-a-planner/google_cal.jpeg "screenshot")
 
@@ -42,6 +42,8 @@ Throughout the day I can add new tasks to my calendar for the next day (or the s
 If I need to quickly write down a new task on my plate, I can use the space on the left hand side of the page. I can then add it to google calendar whenever convenient. This rarely takes place, as my phone is almost always within reach or my computer is out (since classes are virtual at the moment).
 
 On days where I can't write my schedule down so soon after waking, I do it during a lull in some other activity. For example, when I climb in the mornings I write down my schedule during the bus ride on the number 6. Obviously I don't need my planner to know that I have to catch it right after wake up, so I can afford to "start" my schedule after the first event of the day. I use this strategy often.
+
+I'm not 100%. In fact, you can see on Tuesday that although I finished turning in an application for a summer program (that's task "turn in SFI app" and "thank Isabella") I didn't have it written down in the schedule. I finished those tasks after dinner- a time that I often play by ear. I do this on a case-by-case basis. The beginning of the quarter has a smaller workload, but in the future I would like to be more strict.
 
 Shorthand
 ======
