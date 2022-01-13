@@ -37,4 +37,12 @@ On Tuesday morning I get up, and because I get up with ample time before my firs
 
 Footloose
 ======
-Throughout the day I can add new tasks to my calendar for the next day (or the same day)
+Throughout the day I can add new tasks to my calendar for the next day (or the same day). For example, if my workout runs 30 minutes late it only takes a minute or two to recalibrate the rest of my times. I didn't work out on Tuesday but you get the idea. This is really powerful- days rarely go according to plan, but the ease of editing this planner means I don't lose out on much.
+
+If I need to quickly write down a new task on my plate, I can use the space on the left hand side of the page. I can then add it to google calendar whenever convenient. This rarely takes place, as my phone is almost always within reach or my computer is out (since classes are virtual at the moment).
+
+On days where I can't write my schedule down so soon after waking, I do it during a lull in some other activity. For example, when I climb in the mornings I write down my schedule during the bus ride on the number 6. Obviously I don't need my planner to know that I have to catch it right after wake up, so I can afford to "start" my schedule after the first event of the day. I use this strategy often.
+
+Shorthand
+======
+I've also made it a practice to write in shorthand- the notebook only needs to be readable to me. For example, I use clock hands to indicate 15 minutes after the hour, 30 minutes after the hour, and 45 minutes after the hour. I also write in a little 50-10 label for hour long blocks of work time. This indicates a pomodoro work session, with 50 minutes of work combined with 10 minutes of break.
