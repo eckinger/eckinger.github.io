@@ -1,10 +1,10 @@
 # main links links
 main:
-    # - title: "Portfolio"
-    # url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: https://raw.githubusercontent.com/eckinger/eckinger.github.io/master/files/cv.pdf
+    url: /files/cv.pdf
