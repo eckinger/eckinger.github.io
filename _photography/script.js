@@ -1,5 +1,5 @@
 var slideIndex = 1;
-var numEntries = 2;
+var numEntries = 3;
 for (i = 1; i <= numEntries; i++) {
     showSlides(slideIndex, i);
 }
